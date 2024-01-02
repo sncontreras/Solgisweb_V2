@@ -1,0 +1,22 @@
+
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/booking_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/carga_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/carga_state_out_data.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/carga_type_out_data.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/carreta_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/container_carga_type.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/contenedor_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/contrato_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/guia_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/guia_transp_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/informacion_documento.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/initialized_out_data.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/modal_fit_guia_out.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/op_log_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/origen_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/out_data.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/photos_vehicle_salida_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/precinto_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/tcontenedor_field_out_widget.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/vehicle_container_salida.dart';
+export 'package:solgis/projects/cargo/presentation/pages/salida/widgets/vehiculo_salida_widget.dart';
